@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dhkeyexchange;
+package DHKeyExchange.src.dhkeyexchange;
 
 /**
  *
@@ -16,6 +16,8 @@ public class DHKeyExchange {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    	
+    	PrimeNumbers primes = new PrimeNumbers(2);
     }
     
 }
